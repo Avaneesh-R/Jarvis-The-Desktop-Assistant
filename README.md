@@ -93,7 +93,3 @@ The command logic in `jarvis.py` is split into task-category modules that get im
 - Cross-platform support (macOS/Linux equivalents for system commands)
 - Encrypted local storage for any saved credentials, if that feature returns
 - Expand the personality layer with more varied response pools
-
-## License
-
-MIT (or update to whatever you're using)
